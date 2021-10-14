@@ -1,0 +1,16 @@
+C:\Users\Ana\OneDrive\Área de Trabalho\Aplicação_Geral\obj\Debug\net5.0\Aplicação_Geral.csproj.AssemblyReference.cache
+C:\Users\Ana\OneDrive\Área de Trabalho\Aplicação_Geral\obj\Debug\net5.0\Aplicação_Geral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana\OneDrive\Área de Trabalho\Aplicação_Geral\obj\Debug\net5.0\Aplicação_Geral.AssemblyInfoInputs.cache
+C:\Users\Ana\OneDrive\Área de Trabalho\Aplicação_Geral\obj\Debug\net5.0\Aplicação_Geral.AssemblyInfo.cs
+C:\Users\Ana\OneDrive\Área de Trabalho\Aplicação_Geral\obj\Debug\net5.0\Aplicação_Geral.csproj.CoreCompileInputs.cache
+C:\Users\Ana\OneDrive\Área de Trabalho\Aplicação_Geral\bin\Debug\net5.0\Aplicação_Geral.exe
+C:\Users\Ana\OneDrive\Área de Trabalho\Aplicação_Geral\bin\Debug\net5.0\Aplicação_Geral.deps.json
+C:\Users\Ana\OneDrive\Área de Trabalho\Aplicação_Geral\bin\Debug\net5.0\Aplicação_Geral.runtimeconfig.json
+C:\Users\Ana\OneDrive\Área de Trabalho\Aplicação_Geral\bin\Debug\net5.0\Aplicação_Geral.runtimeconfig.dev.json
+C:\Users\Ana\OneDrive\Área de Trabalho\Aplicação_Geral\bin\Debug\net5.0\Aplicação_Geral.dll
+C:\Users\Ana\OneDrive\Área de Trabalho\Aplicação_Geral\bin\Debug\net5.0\ref\Aplicação_Geral.dll
+C:\Users\Ana\OneDrive\Área de Trabalho\Aplicação_Geral\bin\Debug\net5.0\Aplicação_Geral.pdb
+C:\Users\Ana\OneDrive\Área de Trabalho\Aplicação_Geral\obj\Debug\net5.0\Aplicação_Geral.dll
+C:\Users\Ana\OneDrive\Área de Trabalho\Aplicação_Geral\obj\Debug\net5.0\ref\Aplicação_Geral.dll
+C:\Users\Ana\OneDrive\Área de Trabalho\Aplicação_Geral\obj\Debug\net5.0\Aplicação_Geral.pdb
+C:\Users\Ana\OneDrive\Área de Trabalho\Aplicação_Geral\obj\Debug\net5.0\Aplicação_Geral.genruntimeconfig.cache
